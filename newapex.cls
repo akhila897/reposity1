@@ -1,6 +1,6 @@
 public with sharing class newapex {
     public newapex() {
-        System.debug('hello world');
+        System.debug('mindtree minds');
 
     }
 }
